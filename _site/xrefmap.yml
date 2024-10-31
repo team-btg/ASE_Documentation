@@ -1,0 +1,427 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ASE_Project_Demo
+  name: ASE_Project_Demo
+  href: api/ASE_Project_Demo.html
+  commentId: N:ASE_Project_Demo
+  fullName: ASE_Project_Demo
+  nameWithType: ASE_Project_Demo
+- uid: ASE_Project_Demo.Classes
+  name: ASE_Project_Demo.Classes
+  href: api/ASE_Project_Demo.Classes.html
+  commentId: N:ASE_Project_Demo.Classes
+  fullName: ASE_Project_Demo.Classes
+  nameWithType: ASE_Project_Demo.Classes
+- uid: ASE_Project_Demo.Classes.AppCanvas
+  name: AppCanvas
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html
+  commentId: T:ASE_Project_Demo.Classes.AppCanvas
+  fullName: ASE_Project_Demo.Classes.AppCanvas
+  nameWithType: AppCanvas
+- uid: ASE_Project_Demo.Classes.AppCanvas.#ctor
+  name: AppCanvas()
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas__ctor
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.#ctor
+  name.vb: New()
+  fullName: ASE_Project_Demo.Classes.AppCanvas.AppCanvas()
+  fullName.vb: ASE_Project_Demo.Classes.AppCanvas.New()
+  nameWithType: AppCanvas.AppCanvas()
+  nameWithType.vb: AppCanvas.New()
+- uid: ASE_Project_Demo.Classes.AppCanvas.#ctor*
+  name: AppCanvas
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas__ctor_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Project_Demo.Classes.AppCanvas.AppCanvas
+  fullName.vb: ASE_Project_Demo.Classes.AppCanvas.New
+  nameWithType: AppCanvas.AppCanvas
+  nameWithType.vb: AppCanvas.New
+- uid: ASE_Project_Demo.Classes.AppCanvas.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Circle(int, bool)
+  fullName.vb: ASE_Project_Demo.Classes.AppCanvas.Circle(Integer, Boolean)
+  nameWithType: AppCanvas.Circle(int, bool)
+  nameWithType.vb: AppCanvas.Circle(Integer, Boolean)
+- uid: ASE_Project_Demo.Classes.AppCanvas.Circle*
+  name: Circle
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Circle_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.Circle
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Circle
+  nameWithType: AppCanvas.Circle
+- uid: ASE_Project_Demo.Classes.AppCanvas.Clear
+  name: Clear()
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Clear
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.Clear
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Clear()
+  nameWithType: AppCanvas.Clear()
+- uid: ASE_Project_Demo.Classes.AppCanvas.Clear*
+  name: Clear
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Clear_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.Clear
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Clear
+  nameWithType: AppCanvas.Clear
+- uid: ASE_Project_Demo.Classes.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: ASE_Project_Demo.Classes.AppCanvas.DrawTo(int, int)
+  fullName.vb: ASE_Project_Demo.Classes.AppCanvas.DrawTo(Integer, Integer)
+  nameWithType: AppCanvas.DrawTo(int, int)
+  nameWithType.vb: AppCanvas.DrawTo(Integer, Integer)
+- uid: ASE_Project_Demo.Classes.AppCanvas.DrawTo*
+  name: DrawTo
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_DrawTo_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.DrawTo
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.DrawTo
+  nameWithType: AppCanvas.DrawTo
+- uid: ASE_Project_Demo.Classes.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: ASE_Project_Demo.Classes.AppCanvas.MoveTo(int, int)
+  fullName.vb: ASE_Project_Demo.Classes.AppCanvas.MoveTo(Integer, Integer)
+  nameWithType: AppCanvas.MoveTo(int, int)
+  nameWithType.vb: AppCanvas.MoveTo(Integer, Integer)
+- uid: ASE_Project_Demo.Classes.AppCanvas.MoveTo*
+  name: MoveTo
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_MoveTo_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.MoveTo
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.MoveTo
+  nameWithType: AppCanvas.MoveTo
+- uid: ASE_Project_Demo.Classes.AppCanvas.PenColour
+  name: PenColour
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_PenColour
+  commentId: P:ASE_Project_Demo.Classes.AppCanvas.PenColour
+  fullName: ASE_Project_Demo.Classes.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: ASE_Project_Demo.Classes.AppCanvas.PenColour*
+  name: PenColour
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_PenColour_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.PenColour
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: ASE_Project_Demo.Classes.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Rect(int, int, bool)
+  fullName.vb: ASE_Project_Demo.Classes.AppCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: AppCanvas.Rect(int, int, bool)
+  nameWithType.vb: AppCanvas.Rect(Integer, Integer, Boolean)
+- uid: ASE_Project_Demo.Classes.AppCanvas.Rect*
+  name: Rect
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Rect_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.Rect
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Rect
+  nameWithType: AppCanvas.Rect
+- uid: ASE_Project_Demo.Classes.AppCanvas.Reset
+  name: Reset()
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Reset
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.Reset
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Reset()
+  nameWithType: AppCanvas.Reset()
+- uid: ASE_Project_Demo.Classes.AppCanvas.Reset*
+  name: Reset
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Reset_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.Reset
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Reset
+  nameWithType: AppCanvas.Reset
+- uid: ASE_Project_Demo.Classes.AppCanvas.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Set_System_Int32_System_Int32_
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Set(int, int)
+  fullName.vb: ASE_Project_Demo.Classes.AppCanvas.Set(Integer, Integer)
+  nameWithType: AppCanvas.Set(int, int)
+  nameWithType.vb: AppCanvas.Set(Integer, Integer)
+- uid: ASE_Project_Demo.Classes.AppCanvas.Set*
+  name: Set
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Set_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.Set
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Set
+  nameWithType: AppCanvas.Set
+- uid: ASE_Project_Demo.Classes.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: ASE_Project_Demo.Classes.AppCanvas.SetColour(int, int, int)
+  fullName.vb: ASE_Project_Demo.Classes.AppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: AppCanvas.SetColour(int, int, int)
+  nameWithType.vb: AppCanvas.SetColour(Integer, Integer, Integer)
+- uid: ASE_Project_Demo.Classes.AppCanvas.SetColour*
+  name: SetColour
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_SetColour_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.SetColour
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.SetColour
+  nameWithType: AppCanvas.SetColour
+- uid: ASE_Project_Demo.Classes.AppCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Tri(int, int)
+  fullName.vb: ASE_Project_Demo.Classes.AppCanvas.Tri(Integer, Integer)
+  nameWithType: AppCanvas.Tri(int, int)
+  nameWithType.vb: AppCanvas.Tri(Integer, Integer)
+- uid: ASE_Project_Demo.Classes.AppCanvas.Tri*
+  name: Tri
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Tri_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.Tri
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Tri
+  nameWithType: AppCanvas.Tri
+- uid: ASE_Project_Demo.Classes.AppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_WriteText_System_String_
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: ASE_Project_Demo.Classes.AppCanvas.WriteText(string)
+  fullName.vb: ASE_Project_Demo.Classes.AppCanvas.WriteText(String)
+  nameWithType: AppCanvas.WriteText(string)
+  nameWithType.vb: AppCanvas.WriteText(String)
+- uid: ASE_Project_Demo.Classes.AppCanvas.WriteText*
+  name: WriteText
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_WriteText_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.WriteText
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.WriteText
+  nameWithType: AppCanvas.WriteText
+- uid: ASE_Project_Demo.Classes.AppCanvas.Xpos
+  name: Xpos
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Xpos
+  commentId: P:ASE_Project_Demo.Classes.AppCanvas.Xpos
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: ASE_Project_Demo.Classes.AppCanvas.Xpos*
+  name: Xpos
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Xpos_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.Xpos
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: ASE_Project_Demo.Classes.AppCanvas.Ypos
+  name: Ypos
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Ypos
+  commentId: P:ASE_Project_Demo.Classes.AppCanvas.Ypos
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: ASE_Project_Demo.Classes.AppCanvas.Ypos*
+  name: Ypos
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_Ypos_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.Ypos
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: ASE_Project_Demo.Classes.AppCanvas.getBitmap
+  name: getBitmap()
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_getBitmap
+  commentId: M:ASE_Project_Demo.Classes.AppCanvas.getBitmap
+  fullName: ASE_Project_Demo.Classes.AppCanvas.getBitmap()
+  nameWithType: AppCanvas.getBitmap()
+- uid: ASE_Project_Demo.Classes.AppCanvas.getBitmap*
+  name: getBitmap
+  href: api/ASE_Project_Demo.Classes.AppCanvas.html#ASE_Project_Demo_Classes_AppCanvas_getBitmap_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCanvas.getBitmap
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCanvas.getBitmap
+  nameWithType: AppCanvas.getBitmap
+- uid: ASE_Project_Demo.Classes.AppCommandFactory
+  name: AppCommandFactory
+  href: api/ASE_Project_Demo.Classes.AppCommandFactory.html
+  commentId: T:ASE_Project_Demo.Classes.AppCommandFactory
+  fullName: ASE_Project_Demo.Classes.AppCommandFactory
+  nameWithType: AppCommandFactory
+- uid: ASE_Project_Demo.Classes.AppCommandFactory.#ctor
+  name: AppCommandFactory()
+  href: api/ASE_Project_Demo.Classes.AppCommandFactory.html#ASE_Project_Demo_Classes_AppCommandFactory__ctor
+  commentId: M:ASE_Project_Demo.Classes.AppCommandFactory.#ctor
+  name.vb: New()
+  fullName: ASE_Project_Demo.Classes.AppCommandFactory.AppCommandFactory()
+  fullName.vb: ASE_Project_Demo.Classes.AppCommandFactory.New()
+  nameWithType: AppCommandFactory.AppCommandFactory()
+  nameWithType.vb: AppCommandFactory.New()
+- uid: ASE_Project_Demo.Classes.AppCommandFactory.#ctor*
+  name: AppCommandFactory
+  href: api/ASE_Project_Demo.Classes.AppCommandFactory.html#ASE_Project_Demo_Classes_AppCommandFactory__ctor_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCommandFactory.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Project_Demo.Classes.AppCommandFactory.AppCommandFactory
+  fullName.vb: ASE_Project_Demo.Classes.AppCommandFactory.New
+  nameWithType: AppCommandFactory.AppCommandFactory
+  nameWithType.vb: AppCommandFactory.New
+- uid: ASE_Project_Demo.Classes.AppCommandFactory.MakeCommand(System.String)
+  name: MakeCommand(string)
+  href: api/ASE_Project_Demo.Classes.AppCommandFactory.html#ASE_Project_Demo_Classes_AppCommandFactory_MakeCommand_System_String_
+  commentId: M:ASE_Project_Demo.Classes.AppCommandFactory.MakeCommand(System.String)
+  name.vb: MakeCommand(String)
+  fullName: ASE_Project_Demo.Classes.AppCommandFactory.MakeCommand(string)
+  fullName.vb: ASE_Project_Demo.Classes.AppCommandFactory.MakeCommand(String)
+  nameWithType: AppCommandFactory.MakeCommand(string)
+  nameWithType.vb: AppCommandFactory.MakeCommand(String)
+- uid: ASE_Project_Demo.Classes.AppCommandFactory.MakeCommand*
+  name: MakeCommand
+  href: api/ASE_Project_Demo.Classes.AppCommandFactory.html#ASE_Project_Demo_Classes_AppCommandFactory_MakeCommand_
+  commentId: Overload:ASE_Project_Demo.Classes.AppCommandFactory.MakeCommand
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppCommandFactory.MakeCommand
+  nameWithType: AppCommandFactory.MakeCommand
+- uid: ASE_Project_Demo.Classes.AppHex
+  name: AppHex
+  href: api/ASE_Project_Demo.Classes.AppHex.html
+  commentId: T:ASE_Project_Demo.Classes.AppHex
+  fullName: ASE_Project_Demo.Classes.AppHex
+  nameWithType: AppHex
+- uid: ASE_Project_Demo.Classes.AppHex.#ctor
+  name: AppHex()
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex__ctor
+  commentId: M:ASE_Project_Demo.Classes.AppHex.#ctor
+  name.vb: New()
+  fullName: ASE_Project_Demo.Classes.AppHex.AppHex()
+  fullName.vb: ASE_Project_Demo.Classes.AppHex.New()
+  nameWithType: AppHex.AppHex()
+  nameWithType.vb: AppHex.New()
+- uid: ASE_Project_Demo.Classes.AppHex.#ctor*
+  name: AppHex
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex__ctor_
+  commentId: Overload:ASE_Project_Demo.Classes.AppHex.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Project_Demo.Classes.AppHex.AppHex
+  fullName.vb: ASE_Project_Demo.Classes.AppHex.New
+  nameWithType: AppHex.AppHex
+  nameWithType.vb: AppHex.New
+- uid: ASE_Project_Demo.Classes.AppHex.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex_CheckParameters_System_String___
+  commentId: M:ASE_Project_Demo.Classes.AppHex.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: ASE_Project_Demo.Classes.AppHex.CheckParameters(string[])
+  fullName.vb: ASE_Project_Demo.Classes.AppHex.CheckParameters(String())
+  nameWithType: AppHex.CheckParameters(string[])
+  nameWithType.vb: AppHex.CheckParameters(String())
+- uid: ASE_Project_Demo.Classes.AppHex.CheckParameters*
+  name: CheckParameters
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex_CheckParameters_
+  commentId: Overload:ASE_Project_Demo.Classes.AppHex.CheckParameters
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppHex.CheckParameters
+  nameWithType: AppHex.CheckParameters
+- uid: ASE_Project_Demo.Classes.AppHex.Compile
+  name: Compile()
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex_Compile
+  commentId: M:ASE_Project_Demo.Classes.AppHex.Compile
+  fullName: ASE_Project_Demo.Classes.AppHex.Compile()
+  nameWithType: AppHex.Compile()
+- uid: ASE_Project_Demo.Classes.AppHex.Compile*
+  name: Compile
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex_Compile_
+  commentId: Overload:ASE_Project_Demo.Classes.AppHex.Compile
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppHex.Compile
+  nameWithType: AppHex.Compile
+- uid: ASE_Project_Demo.Classes.AppHex.Execute
+  name: Execute()
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex_Execute
+  commentId: M:ASE_Project_Demo.Classes.AppHex.Execute
+  fullName: ASE_Project_Demo.Classes.AppHex.Execute()
+  nameWithType: AppHex.Execute()
+- uid: ASE_Project_Demo.Classes.AppHex.Execute*
+  name: Execute
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex_Execute_
+  commentId: Overload:ASE_Project_Demo.Classes.AppHex.Execute
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppHex.Execute
+  nameWithType: AppHex.Execute
+- uid: ASE_Project_Demo.Classes.AppHex.Hex(System.Int32,System.Boolean)
+  name: Hex(int, bool)
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex_Hex_System_Int32_System_Boolean_
+  commentId: M:ASE_Project_Demo.Classes.AppHex.Hex(System.Int32,System.Boolean)
+  name.vb: Hex(Integer, Boolean)
+  fullName: ASE_Project_Demo.Classes.AppHex.Hex(int, bool)
+  fullName.vb: ASE_Project_Demo.Classes.AppHex.Hex(Integer, Boolean)
+  nameWithType: AppHex.Hex(int, bool)
+  nameWithType.vb: AppHex.Hex(Integer, Boolean)
+- uid: ASE_Project_Demo.Classes.AppHex.Hex*
+  name: Hex
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex_Hex_
+  commentId: Overload:ASE_Project_Demo.Classes.AppHex.Hex
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppHex.Hex
+  nameWithType: AppHex.Hex
+- uid: ASE_Project_Demo.Classes.AppHex.Set(BOOSE.StoredProgram,System.String)
+  name: Set(StoredProgram, string)
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex_Set_BOOSE_StoredProgram_System_String_
+  commentId: M:ASE_Project_Demo.Classes.AppHex.Set(BOOSE.StoredProgram,System.String)
+  name.vb: Set(StoredProgram, String)
+  fullName: ASE_Project_Demo.Classes.AppHex.Set(BOOSE.StoredProgram, string)
+  fullName.vb: ASE_Project_Demo.Classes.AppHex.Set(BOOSE.StoredProgram, String)
+  nameWithType: AppHex.Set(StoredProgram, string)
+  nameWithType.vb: AppHex.Set(StoredProgram, String)
+- uid: ASE_Project_Demo.Classes.AppHex.Set*
+  name: Set
+  href: api/ASE_Project_Demo.Classes.AppHex.html#ASE_Project_Demo_Classes_AppHex_Set_
+  commentId: Overload:ASE_Project_Demo.Classes.AppHex.Set
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Classes.AppHex.Set
+  nameWithType: AppHex.Set
+- uid: ASE_Project_Demo.Form1
+  name: Form1
+  href: api/ASE_Project_Demo.Form1.html
+  commentId: T:ASE_Project_Demo.Form1
+  fullName: ASE_Project_Demo.Form1
+  nameWithType: Form1
+- uid: ASE_Project_Demo.Form1.#ctor
+  name: Form1()
+  href: api/ASE_Project_Demo.Form1.html#ASE_Project_Demo_Form1__ctor
+  commentId: M:ASE_Project_Demo.Form1.#ctor
+  name.vb: New()
+  fullName: ASE_Project_Demo.Form1.Form1()
+  fullName.vb: ASE_Project_Demo.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: ASE_Project_Demo.Form1.#ctor*
+  name: Form1
+  href: api/ASE_Project_Demo.Form1.html#ASE_Project_Demo_Form1__ctor_
+  commentId: Overload:ASE_Project_Demo.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Project_Demo.Form1.Form1
+  fullName.vb: ASE_Project_Demo.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: ASE_Project_Demo.Form1.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: api/ASE_Project_Demo.Form1.html#ASE_Project_Demo_Form1_Dispose_System_Boolean_
+  commentId: M:ASE_Project_Demo.Form1.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: ASE_Project_Demo.Form1.Dispose(bool)
+  fullName.vb: ASE_Project_Demo.Form1.Dispose(Boolean)
+  nameWithType: Form1.Dispose(bool)
+  nameWithType.vb: Form1.Dispose(Boolean)
+- uid: ASE_Project_Demo.Form1.Dispose*
+  name: Dispose
+  href: api/ASE_Project_Demo.Form1.html#ASE_Project_Demo_Form1_Dispose_
+  commentId: Overload:ASE_Project_Demo.Form1.Dispose
+  isSpec: "True"
+  fullName: ASE_Project_Demo.Form1.Dispose
+  nameWithType: Form1.Dispose
